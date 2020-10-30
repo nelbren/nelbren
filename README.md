@@ -9,7 +9,7 @@
 - ## Now coming back to me, I tell you that:
   - ## I like 🕹 video games and 🎧 music.
   - ## I am passionate about **open source** and 📖 **learning / teaching**.
-  - ## And therefore everything that has to do with technology.
+  - ## And therefore everything that has to do with 💻 technology.
   
 - ## ⚡ **These are my boy scout medals humbly assigned by me 😊:**
 
