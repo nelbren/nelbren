@@ -4,8 +4,8 @@
 
 - ## I'm a Fullstack web developer from **Honduras**. 
   - ### Honduras is in the center of the world, more specifically in **Central America** 👉 🌎. 
-  - ### In the 🏖 Bay Islands,  you will find that Roatan is considered to be the second largest reef in the world 🤿.
-  - ### Another 💎 jewel of our country is Copan Ruins, which is an archaeological site of the ancient Mayan civilization.
+  - ### In the Bay Islands,  you will find that Roatan is considered to be the second largest reef in the world 🤿.
+  - ### Another 💎 jewel is Copan Ruins, which is an archaeological site of the ancient Mayan civilization.
 - ## Now coming back to me, I tell you that:
   - ## I like 🕹 video games and 🎧 music.
   - ## I am passionate about **open source** and 📖 **learning / teaching**.
