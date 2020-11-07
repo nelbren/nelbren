@@ -11,7 +11,7 @@
   - ## I am passionate about ❤️ **open source** and 📖 **learning / teaching**.
   - ## And therefore everything that has to do with 💻 technology.
   
-- ## ⚡ **These are my boy scout medals humbly assigned by me 😊:**
+- ## ⚡ **These are my 🤘🏼 boy scout 🎖 medals humbly assigned by me 😊:**
 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="80"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" /> </a> 
