@@ -8,7 +8,7 @@
   - ### Another 💎 jewel is Copan Ruins, which is an archaeological site of the ancient Mayan civilization.
 - ## Now coming back to me, I tell you that:
   - ## I like 🕹 video games and 🎧 music.
-  - ## I am passionate about **open source** and 📖 **learning / teaching**.
+  - ## I am passionate about ❤️ **open source** and 📖 **learning / teaching**.
   - ## And therefore everything that has to do with 💻 technology.
   
 - ## ⚡ **These are my boy scout medals humbly assigned by me 😊:**
