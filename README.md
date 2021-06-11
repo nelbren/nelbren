@@ -10,7 +10,12 @@
   - ## I like 🕹 video games and 🎧 music.
   - ## I am passionate about ❤️ **open source** and 📖 **learning / teaching**.
   - ## And therefore everything that has to do with 💻 technology.
-  
+
+- ## Some of the projects I work on every day, using my mantra, what I recommend is because I use it:
+  - yafp - **Yet Another Fancy Prompt**, is a project to facilitate the customization of the command line indicator, adding to it the status of the repository and the python environment.
+    - https://github.com/nelbren/yafp
+  - enable - It is a project to make **things easier**, **sudo**, the **above**, and **color** the terminal, so that the **fun** does **not die**.
+    - https://github.com/nelbren/npres/tree/master/bin/enable
 - ## ⚡ **These are my 🤘🏼 boy scout 🎖 medals humbly assigned by me 😊:**
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="80"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" /> </a> 
