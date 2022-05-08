@@ -12,7 +12,7 @@
   - ## And therefore everything that has to do with 💻 technology.
 
 - ## Some of the coolest projects I work on every day, using my mantra, what I recommend is because I use it:
-  - **[miner_preview](https://github.com/nelbren/miner_preview)** - Get 💰 wallet 📈 balance from 💻[Ethermine](https://www.ethermine.org/) and ☁️[Cloudatcost](https://www.cloudatcost.com/) ⛏️ mining 🚧 process.
+  - **[miner_preview](https://github.com/nelbren/miner_preview)** - Get 💰 wallet 📈 balance from 💻[Ethermine](https://www.ethermine.org/), 💻[Nicehash](https://www.nicehash.com/) and ☁️[Cloudatcost](https://www.cloudatcost.com/) ⛏️ mining 🚧 process.
   - **[yafp](https://github.com/nelbren/yafp)** - Is a project to facilitate the customization of the prompt, with the status of the repository and python environment.
   - **[enable](https://github.com/nelbren/npres/tree/master/bin/enable)** - It is a project to make **things easier**, **sudo**, the **above**, and **color** the terminal, so that the **fun** does **not die**.
 - ## ⚡ **These are my 🤘🏼 boy scout 🎖 medals humbly assigned by me 😊:**
