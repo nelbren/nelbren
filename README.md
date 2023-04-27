@@ -34,6 +34,10 @@
 
 - ## ✉️ **And feel free to consult me through my email:**
   <a href="mailto: nelbren@gmail.com">**nelbren@gmail.com**</a>
+
+- ## 📈 Some cool stats:
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nelbren&show_icons=true&theme=radical" alt="nelbren" />
+
 <!--
 **nelbren/nelbren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
