@@ -36,7 +36,9 @@
   <a href="mailto: nelbren@gmail.com">**nelbren@gmail.com**</a>
 
 - ## 📈 Some cool stats:
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nelbren&show_icons=true&theme=radical" alt="nelbren" />
+  |Github Stats|Top Languages|
+  |:--:|:--:|
+  |<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nelbren&show_icons=true&theme=radical" alt="nelbren" />|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelbren&layout=compact)|
 
 <!--
 **nelbren/nelbren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
