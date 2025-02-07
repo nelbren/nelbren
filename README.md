@@ -12,6 +12,7 @@
   - ## And therefore everything that has to do with 💻 technology.
 
 - ## Some of the coolest projects I work on every day, using my mantra, what I recommend is because I use it:
+  - **[🌐 Internet Connection Monitor (ICM) 🔌](https://github.com/nelbren/ICM)** & **[🌐 ICM daemon (ICMd) 🔌](https://github.com/nelbren/ICMd)** - Real-time internet connection monitoring dashboard
   - **[grades-weighted-automatically](https://github.com/nelbren/grades-weighted-automatically)** - Grades weighted automatically using [API](https://canvas.instructure.com/doc/api/index.html) of [Canvas Instructure](https://www.instructure.com/lms-learning-management-system).
   - **[miner_preview](https://github.com/nelbren/miner_preview)** - Get 💰 wallet 📈 balance from 💻[Ethermine](https://www.ethermine.org/), 💻[Nicehash](https://www.nicehash.com/) and ☁️[Cloudatcost](https://www.cloudatcost.com/) ⛏️ mining 🚧 process.
   - **[yafp](https://github.com/nelbren/yafp)** - Is a project to facilitate the customization of the prompt, with the status of the repository and python environment.
